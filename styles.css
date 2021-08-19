@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    align-content: center;
+    background-color: darkslategrey;
+    background-position: center;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    margin-top: 10%;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-block: 5%;
+}
+
+.cell {
+    width: 100px;
+    height: 100px;
+    margin: 0.2rem 0.2rem 0.4rem;
+    padding: 1rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    font-weight: 600;
+    background-color: transparent;
+    color: black;
+    align-content: center;
+    border-width: 10%;
+}
