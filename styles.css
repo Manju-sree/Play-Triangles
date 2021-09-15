@@ -1,13 +1,13 @@
 body {
     text-align: center;
     align-content: center;
-    background-color: darkslategrey;
+    background-color: floralwhite;
     background-position: center;
 }
 
 h1 {
     text-align: center;
-    color: white;
+    color: black;
     margin-top: 10%;
 }
 
@@ -33,4 +33,17 @@ h1 {
     color: black;
     align-content: center;
     border-width: 10%;
+}
+
+.footer {
+    padding-top: 5%;
+}
+
+.footer-header {
+    text-align: center;
+}
+
+.link {
+    text-align: center;
+    margin-left: 0.4rem;
 }
